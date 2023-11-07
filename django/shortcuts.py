@@ -153,3 +153,9 @@ def resolve_url(to, *args, **kwargs):
 
     # Finally, fall back and assume it's a URL
     return to
+
+
+
+#New line add by Chiagoziem
+def make_toast():
+    return "toast"
